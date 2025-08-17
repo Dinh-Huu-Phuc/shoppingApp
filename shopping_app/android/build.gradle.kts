@@ -1,6 +1,6 @@
-dependencies {
-      classpath 'com.google.gms:google-services:4.4.2' // phiên bản mới nhất
-      }
+plugins{
+    // Các plugin được sử dụng trong dự án Android
+}// To
 
 allprojects {
     repositories {
